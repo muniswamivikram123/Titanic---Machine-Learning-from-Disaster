@@ -8,3 +8,8 @@ result:
 
 
 output of the App:
+before prediction:![Screenshot 2024-07-21 124307](https://github.com/user-attachments/assets/4099bbaa-810c-4239-a4c2-3fd21ed2f1b9)
+after prediction:![Screenshot 2024-07-21 124328](https://github.com/user-attachments/assets/51caeee0-ef08-446a-bffd-080168461cf5)
+
+
+
